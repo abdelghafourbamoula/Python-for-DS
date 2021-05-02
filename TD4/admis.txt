@@ -1,0 +1,2 @@
+nom:reda - prenom:reddod - MoyG:16.0
+nom:Aya - prenom:toto - MoyG:16.333333333333332
